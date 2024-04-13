@@ -2,7 +2,7 @@
 
 <p align="center">
  <br/>
-<img src="https://img.freepik.com/free-vector/hospital-interior-flat-compositions_98292-96.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Qowxd2O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
