@@ -1,4 +1,4 @@
-# Patients-Emergency-Room-Visit-Report
+# Patients-Emergency-Room-Visit-Report Dashboard
 
 <p align="center">
  <br/>
