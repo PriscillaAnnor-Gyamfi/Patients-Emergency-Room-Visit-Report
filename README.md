@@ -14,29 +14,29 @@
 
 <h2>Key Metrics</h2>
 
-<b>Here are the aspects I covered in my analysis:</b>
-- <b>Average Wait Time: Identified typical wait times for patient appointments to assess the efficiency of our scheduling processes and identify areas for improvement.</b>
-- <b>Patient Satisfaction: Helped with understanding the factors influencing patient satisfaction is crucial for enhancing the overall patient experience and improving the quality of care we provide. </b>
-- <b>Total Patient Visits Monthly: Analyzed the monthly patient visit volume helps us understand the demand for healthcare services over time, enabling better resource allocation and capacity planning.</b>
-- <b>Administrative vs. Non-Administrative Appointments: Distinguished between different appointment types allows us to evaluate the impact of administrative processes on wait times and patient satisfaction.</b>
-- <b>Referrals and Walk-In Patients: Examinined the balance between referred and walk-in patients provides insights into the referral system's effectiveness and its implications for the patient experience.</b>
-- <b>Patient Visits by Age Group and Race: Analyzed patient visits by age group and race helps us understand the diversity of healthcare needs and preferences among different demographic segments, informing tailored healthcare strategies and interventions.</b>
+Here are the aspects I covered in my analysis:
+- <b>Average Wait Time:</b> Identified typical wait times for patient appointments to assess the efficiency of our scheduling processes and identify areas for improvement.
+- <b>Patient Satisfaction:</b> Helped with understanding the factors influencing patient satisfaction is crucial for enhancing the overall patient experience and improving the quality of care we provide. 
+- <b>Total Patient Visits Monthly:</b> Analyzed the monthly patient visit volume helps us understand the demand for healthcare services over time, enabling better resource allocation and capacity planning.
+- <b>Administrative vs. Non-Administrative Appointments:</b> Distinguished between different appointment types allows us to evaluate the impact of administrative processes on wait times and patient satisfaction.
+- <b>Referrals and Walk-In Patients:</b> Examinined the balance between referred and walk-in patients provides insights into the referral system's effectiveness and its implications for the patient experience.
+- <b>Patient Visits by Age Group and Race:</b> Analyzed patient visits by age group and race helps us understand the diversity of healthcare needs and preferences among different demographic segments, informing tailored healthcare strategies and interventions.
 
 
 <h2>Data Dictionary</h2>
 
-- <b>date: The date and time of the patient's appointment.</b>
-- <b>patient_id: Unique identifier for each patient. </b>
-- <b>patient_gender: Gender of the patient (M for male, F for female).</b>
-- <b>patient_gender: Gender of the patient (M for male, F for female).</b>
-- <b>patient_age: Age of the patient at the time of the appointment.</b>
-- <b>patient_sat_score: Satisfaction score given by the patient for their experience. (null if not applicable)</b>
-- <b>patient_first_inital: The first initial of the patient's first name. </b>
-- <b>patient_last_name: The last name of the patient. </b>
-- <b>patient_race: Race or ethnicity of the patient. </b>
-- <b>patient_admin_flag: A boolean value indicating whether the appointment involves administrative processes (TRUE or FALSE). </b>
-- <b>patient_waittime: The amount of time the patient waited before being seen by a healthcare provider. </b>
-- <b>department_referral: The department or specialty to which the patient was referred, if any. (None if not applicable) </b>
+- <b>date:</b> The date and time of the patient's appointment.
+- <b>patient_id:</b> Unique identifier for each patient. 
+- <b>patient_gender:</b> Gender of the patient (M for male, F for female).
+- <b>patient_gender:</b> Gender of the patient (M for male, F for female).
+- <b>patient_age:</b> Age of the patient at the time of the appointment.
+- <b>patient_sat_score:</b> Satisfaction score given by the patient for their experience. (null if not applicable)
+- <b>patient_first_inital:</b> The first initial of the patient's first name. 
+- <b>patient_last_name:</b> The last name of the patient. 
+- <b>patient_race:</b> Race or ethnicity of the patient. 
+- <b>patient_admin_flag:</b> A boolean value indicating whether the appointment involves administrative processes (TRUE or FALSE). 
+- <b>patient_waittime:</b> The amount of time the patient waited before being seen by a healthcare provider. 
+- <b>department_referral:</b> The department or specialty to which the patient was referred, if any. (None if not applicable) 
 
 
 <h2>Dashboard Features </h2>
