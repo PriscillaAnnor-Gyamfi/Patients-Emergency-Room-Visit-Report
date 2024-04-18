@@ -48,12 +48,12 @@
 - <b>Average Wait Time: Presents the average wait time experienced by patients before being seen by a healthcare provider.</b>
 - <b>Total Patients Visits by Various Categories:
   
-     Yearly Trends: Line graph displaying total patient visits over the years.
-     Week Type: Bar chart illustrating total patient visits categorized by week type (e.g., weekdays vs. weekends).
-     Age Group Distribution: Bar chart showing total patient visits by different age groups.
-     Monthly Trends: Area line graph depicting total patient visits over the months.
-     Department Referral: Bar chart indicating total patient visits by deferral categorized by department name.
-     Patient Gender: Provides a breakdown of patient visits by gender, including male, female, and unknown categories.</b>
+Yearly Trends: Line graph displaying total patient visits over the years.
+Week Type: Bar chart illustrating total patient visits categorized by week type (e.g., weekdays vs. weekends).
+Age Group Distribution: Bar chart showing total patient visits by different age groups.
+Monthly Trends: Area line graph depicting total patient visits over the months.
+Department Referral: Bar chart indicating total patient visits by deferral categorized by department name.
+Patient Gender: Provides a breakdown of patient visits by gender, including male, female, and unknown categories.</b>
 - <b>Average Satisfaction and Wait Time Scores: Displays average satisfaction and wait time scores per patient race and age group using a heatmap, allowing users to filter and analyze data based on patient race and age group.</b>
 - <b>Filter for Visit Moments (AM/PM): Allows users to filter patient visits based on visit moments, distinguishing between visits occurring in the morning (AM) and afternoon/evening (PM).</b>
 
