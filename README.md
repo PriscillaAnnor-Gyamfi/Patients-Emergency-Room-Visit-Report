@@ -44,19 +44,19 @@
 
 </b>
 
-- <b>Summary of Patient Visits: Provides a breakdown of total patient visits categorized by administrative assistance. It distinguishes between patients scheduled through administrative assistance and those not scheduled through administrative assistance.</b>
+- <b>Summary of Patient Visits:</b> Provides a breakdown of total patient visits categorized by administrative assistance. It distinguishes between patients scheduled through administrative assistance and those not scheduled through administrative assistance.
 - <b>Walk-in Patients vs. Referred Patients:</b> Displays the number of walk-in patients and patients referred to specific departments.
 - <b>Average Satisfaction:</b> Shows the average satisfaction score given by patients, providing insights into the overall patient experience.
 - <b>Service Not Rated:</b> Indicates the number of services not rated by patients, highlighting areas where feedback may be lacking.
 - <b>Average Wait Time:</b> Presents the average wait time experienced by patients before being seen by a healthcare provider.
 - <b>Yearly Trends:</b> Line graph displaying total patient visits over the years.
-- <b>Week Type: Bar chart illustrating total patient visits categorized by week type (e.g., weekdays vs. weekends).</b>
-- <b>Age Group Distribution: Bar chart showing total patient visits by different age groups.</b>
-- <b>Monthly Trends: Area line graph depicting total patient visits over the months.</b>
-- <b>Department Referral: Bar chart indicating total patient visits by deferral categorized by department name.</b>
-- <b>Patient Gender: Provides a breakdown of patient visits by gender, including male, female, and unknown categories.</b>
-- <b>Average Satisfaction and Wait Time Scores: Displays average satisfaction and wait time scores per patient race and age group using a heatmap, allowing users to filter and analyze data based on patient race and age group.</b>
-- <b>Filter for Visit Moments (AM/PM): Allows users to filter patient visits based on visit moments, distinguishing between visits occurring in the morning (AM) and afternoon/evening (PM).</b>
+- <b>Week Type:</b> Bar chart illustrating total patient visits categorized by week type (e.g., weekdays vs. weekends).
+- <b>Age Group Distribution:</b> Bar chart showing total patient visits by different age groups.
+- <b>Monthly Trends:</b> Area line graph depicting total patient visits over the months.
+- <b>Department Referral:</b> Bar chart indicating total patient visits by deferral categorized by department name.
+- <b>Patient Gender: </b>Provides a breakdown of patient visits by gender, including male, female, and unknown categories.
+- <b>Average Satisfaction and Wait Time Scores:</b> Displays average satisfaction and wait time scores per patient race and age group using a heatmap, allowing users to filter and analyze data based on patient race and age group.
+- <b>Filter for Visit Moments (AM/PM):</b> Allows users to filter patient visits based on visit moments, distinguishing between visits occurring in the morning (AM) and afternoon/evening (PM).
 
 
 
