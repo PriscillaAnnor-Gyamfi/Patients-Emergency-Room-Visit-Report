@@ -121,9 +121,13 @@ Recognize and prepare for seasonal fluctuations in patient volume, such as the p
 Tailor services and outreach efforts to address the specific healthcare needs and preferences of different gender groups, ensuring equitable access and personalized care delivery.
 
 
-
+<h2>Screenshot of the Patients ER Visits Dashboard</h2>
  
-
+<p align="center">
+ <br/>
+<img src="https://i.imgur.com/pOtbnx3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Tools Used</h2>
 
