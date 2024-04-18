@@ -45,11 +45,11 @@
 </b>
 
 - <b>Summary of Patient Visits: Provides a breakdown of total patient visits categorized by administrative assistance. It distinguishes between patients scheduled through administrative assistance and those not scheduled through administrative assistance.</b>
-- <b>Walk-in Patients vs. Referred Patients: Displays the number of walk-in patients and patients referred to specific departments.</b>
-- <b>Average Satisfaction: Shows the average satisfaction score given by patients, providing insights into the overall patient experience.</b>
-- <b>Service Not Rated: Indicates the number of services not rated by patients, highlighting areas where feedback may be lacking.</b>
-- <b>Average Wait Time: Presents the average wait time experienced by patients before being seen by a healthcare provider.</b>
-- <b>Yearly Trends: Line graph displaying total patient visits over the years.</b>
+- <b>Walk-in Patients vs. Referred Patients:</b> Displays the number of walk-in patients and patients referred to specific departments.
+- <b>Average Satisfaction:</b> Shows the average satisfaction score given by patients, providing insights into the overall patient experience.
+- <b>Service Not Rated:</b> Indicates the number of services not rated by patients, highlighting areas where feedback may be lacking.
+- <b>Average Wait Time:</b> Presents the average wait time experienced by patients before being seen by a healthcare provider.
+- <b>Yearly Trends:</b> Line graph displaying total patient visits over the years.
 - <b>Week Type: Bar chart illustrating total patient visits categorized by week type (e.g., weekdays vs. weekends).</b>
 - <b>Age Group Distribution: Bar chart showing total patient visits by different age groups.</b>
 - <b>Monthly Trends: Area line graph depicting total patient visits over the months.</b>
@@ -59,19 +59,6 @@
 - <b>Filter for Visit Moments (AM/PM): Allows users to filter patient visits based on visit moments, distinguishing between visits occurring in the morning (AM) and afternoon/evening (PM).</b>
 
 
-
-
-
-
-<h2>Key Findings</h2>
-
-- <b>The year 2017 stands out with the highest revenue, totaling 3.85 million dollars, which accounts for 40.79% of the total revenue generated between 2016 and 2018.</b>
-- <b>April emerges as the month with the highest revenue, reaching 1.35 million dollars, while December records the lowest revenue at 0.52 million dollars. This pattern could be attributed to increased bike purchases during the spring and summer seasons.</b>
-- <b>New York, NY leads in revenue, generating 5.83 million dollars, representing 68% of the total revenue, followed by California, CA. Conversely, Texas, TX records the lowest revenue. The high population density in New York could contribute to its dominance in sales.</b>
-- <b>Baldwin Bikes store tops the revenue chart with 67.91%, followed by Santa Cruz Bikes store at 20.87%, and Rowlett Bikes store with 11.22%. The location of Baldwin Bikes in New York likely contributes to its higher revenue.</b>
-- <b>Among the bike categories, Mountain bikes dominate sales, constituting 35.33% of total revenue, while Children bikes contribute the least at 3.82%.</b>
-- <b>Pamelia Newman emerges as the top customer, with a total revenue of $37.80K.</b>
-- <b>Marcelene Boyer stands out as the top Sales Rep, generating a total revenue of $2.94 million.</b>
 
 
 <h2>Key Findings</h2>
