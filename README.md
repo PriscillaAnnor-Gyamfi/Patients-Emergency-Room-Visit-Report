@@ -23,7 +23,18 @@
 - <b>Patient Visits by Age Group and Race: Analyzed patient visits by age group and race helps us understand the diversity of healthcare needs and preferences among different demographic segments, informing tailored healthcare strategies and interventions.</b>
 
 
-<h2>Key Findings</h2>
+<h2>Data Dictionary</h2>
+- <b>date: The date and time of the patient's appointment.</b>b>
+- <b>patient_id: Unique identifier for each patient.</b>
+- <b>patient_gender: Gender of the patient (M for male, F for female).</b>
+- <b>patient_age: Age of the patient at the time of the appointment.</b>
+- <b>patient_sat_score: Satisfaction score given by the patient for their experience. (null if not applicable)</b>
+- <b>patient_first_inital: The first initial of the patient's first name.</b>
+- <b>patient_last_name: The last name of the patient.</b>
+- <b>patient_race: Race or ethnicity of the patient.</b>
+- <b>patient_admin_flag: A boolean value indicating whether the appointment involves administrative processes (TRUE or FALSE).</b>
+- <b>patient_waittime: The amount of time the patient waited before being seen by a healthcare provider.</b>
+- <b>department_referral: The department or specialty to which the patient was referred, if any. (None if not applicable)</b>
 
 - <b>AEMR documented a total of 4,655 outages in the year 2016 to 2017, out of which 4,102 were approved outages, resulting in an overall energy loss of 156,211 MW, with 124,448 MW attributed to approved outages.</b>
 - <b>During this period, there was a notable increase in energy loss by approximately 5% and a rise in outage events by around 17%. However, approved outages saw a significant increase of 12%. </b>
