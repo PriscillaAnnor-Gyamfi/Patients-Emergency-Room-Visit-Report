@@ -24,7 +24,7 @@
 
 
 <h2>Data Dictionary</h2>
-- <b>date: The date and time of the patient's appointment.</b>b>
+- <b>date: The date and time of the patient's appointment.</b>
 - <b>patient_id: Unique identifier for each patient.</b>
 - <b>patient_gender: Gender of the patient (M for male, F for female).</b>
 - <b>patient_age: Age of the patient at the time of the appointment.</b>
