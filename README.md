@@ -78,28 +78,28 @@
 <b>Booking Insights:</b>
 Among 9,216 patient visits, precisely half, or 50.0%, were arranged with administrative aid, while 49.96% were self-arranged.
 
-Patient Pathways:
+<b>Patient Pathways:</b>
 A majority, 58.59%, are walk-in patients, showing a preference for immediate care, while 41.41% are referrals, indicating the influence of medical recommendations.
 
-Referral Preferences:
+<b>Referral Preferences:</b>
 Within referred patients, the top three referrals are General Practice (48.2%), Orthopedics (26%), and Physiotherapy (7.2%), showcasing the diverse medical needs addressed.
 
-Growth Spurt:
+<b>Growth Spurt:</b>
 Over the 2019-2020 period, we observe a notable 5.9% surge in total patient visits, reflecting increased healthcare demand and utilization.
 
-Patience Tested:
+<b>Patience Tested:</b>
 The average wait time stands at 35.26, a pivotal metric shaping patient experience and service efficiency.
 
-Satisfaction Snapshot:
+<b>Satisfaction Snapshot:</b>
 Despite an average satisfaction score of 5.47, only 24.9% of patients provide feedback, underscoring the need for enhanced engagement.
 
-Weekday Rush:
+<b>Weekday Rush:</b>
 Weekdays witness a significant 72% higher patient turnout compared to weekends, highlighting the role of schedule convenience in patient access.
 
-Monthly Peaks and Valleys:
+<b>Monthly Peaks and Valleys:</b>
 August sees the highest patient footfall with 1,024 visits, comprising 11% of total visits, while February records the lowest at 431 visits, representing 4.7% of the total.
 
-Gender Distribution:
+<b>Gender Distribution:</b>
 Males account for 48.7% of visits, females for 51.1%, and a negligible 0.3% are of unknown gender, providing insights into patient demographics and healthcare utilization patterns.
  
 
