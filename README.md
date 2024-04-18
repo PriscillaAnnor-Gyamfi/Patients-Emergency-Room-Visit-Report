@@ -24,30 +24,21 @@
 
 
 <h2>Data Dictionary</h2>
+
 - <b>date: The date and time of the patient's appointment.</b>
-- <b>patient_id: Unique identifier for each patient.</b>
+- <b>patient_id: Unique identifier for each patient. </b>
+- <b>patient_gender: Gender of the patient (M for male, F for female).</b>
 - <b>patient_gender: Gender of the patient (M for male, F for female).</b>
 - <b>patient_age: Age of the patient at the time of the appointment.</b>
 - <b>patient_sat_score: Satisfaction score given by the patient for their experience. (null if not applicable)</b>
-- <b>patient_first_inital: The first initial of the patient's first name.</b>
-- <b>patient_last_name: The last name of the patient.</b>
-- <b>patient_race: Race or ethnicity of the patient.</b>
-- <b>patient_admin_flag: A boolean value indicating whether the appointment involves administrative processes (TRUE or FALSE).</b>
-- <b>patient_waittime: The amount of time the patient waited before being seen by a healthcare provider.</b>
-- <b>department_referral: The department or specialty to which the patient was referred, if any. (None if not applicable)</b>
+- <b>patient_first_inital: The first initial of the patient's first name. </b>
+- <b>patient_last_name: The last name of the patient. </b>
+- <b>patient_race: Race or ethnicity of the patient. </b>
+- <b>patient_admin_flag: A boolean value indicating whether the appointment involves administrative processes (TRUE or FALSE). </b>
+- <b>patient_waittime: The amount of time the patient waited before being seen by a healthcare provider. </b>
+- <b>department_referral: The department or specialty to which the patient was referred, if any. (None if not applicable) </b>
 
-- <b>AEMR documented a total of 4,655 outages in the year 2016 to 2017, out of which 4,102 were approved outages, resulting in an overall energy loss of 156,211 MW, with 124,448 MW attributed to approved outages.</b>
-- <b>During this period, there was a notable increase in energy loss by approximately 5% and a rise in outage events by around 17%. However, approved outages saw a significant increase of 12%. </b>
-- <b>Forced outages accounted for the majority, constituting 70% of all outage types, with a substantial increase of 28% from 2016 to 2017. Conversely, Opportunistic Maintenance recorded the lowest number of 
-     outage events.</b>
-- <b>Upon further analysis of outage durations, Scheduled outages were found to have the longest duration, lasting approximately 5 days. While Forced outages had a shorter duration of 0.6 days, their unplanned 
-     nature and frequency pose significant risks to network performance and reliability, leading to increased energy loss.</b>
-- <b>Among energy providers and facilities, AURICON, GW, and MELK, along with their respective facilities AURICON_PNJ_U1, BW1_GREENWATER, and MELK_G7, emerged as the top three unreliable entities due to their 
-     high recorded outage events, primarily forced outages, and energy loss during the 2016/2017 period.</b>
-- <b>Among energy providers and facilities, AURICON, GW, and MELK, along with their respective facilities AURICON_PNJ_U1, BW1_GREENWATER, and MELK_G7, emerged as the top three unreliable entities due to their 
-     high recorded outage events, primarily forced outages, and energy loss during the 2016/2017 period.</b>
-- <b>Additionally, an analysis of complaints descriptions associated with the recorded outages identified the top three issues and their corresponding facilities: Operational issues causing real-time forced outage (BW1_GREENWATER facility), FO (PJRH_GT11 facility), TES Report_constrained off MW's (PEATHENENERGY_KOR facility) and Deviation from dispatch (TIWEST_COG1 facility).
-</b>
+
  
 
 
