@@ -40,6 +40,7 @@
 
 
 <h2>Dashboard Features </h2>
+Below are the highlighted features of the dashboard, along with their respective visualizations and functionalities. These features are designed to address various business challenges by providing comprehensive information and ensuring a user-friendly experience, facilitating insightful data-driven decision-making:
 
 - <b>Summary of Patient Visits: Provides a breakdown of total patient visits categorized by administrative assistance. It distinguishes between patients scheduled through administrative assistance and those not scheduled through administrative assistance.</b>
 - <b>Walk-in Patients vs. Referred Patients: Displays the number of walk-in patients and patients referred to specific departments.</b>
