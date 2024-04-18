@@ -2,7 +2,7 @@
 
 <p align="center">
  <br/>
-<img src="https://i.imgur.com/hXvOdZM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pOtbnx3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -99,25 +99,25 @@ Based on the data-driven insights revealed in our healthcare analysis, I propose
 <b>1. Booking Optimization:</b>
 Implement streamlined booking processes to balance administrative and self-arranged appointments, ensuring efficient resource allocation and patient satisfaction.
 
-<b>Patient Pathway Enhancement:</b>
+<b>2. Patient Pathway Enhancement:</b>
 Develop targeted referral pathways for high-demand specialties like General Practice, Orthopedics, and Physiotherapy to optimize patient flow and improve access to specialized care.
 
-<b>Capacity Planning:</b>
+<b>3. Capacity Planning:</b>
 Anticipate and accommodate the observed growth in patient visits by optimizing staffing levels, scheduling, and facility resources to prevent bottlenecks and maintain service quality.
 
-<b>Wait Time Management:</b>
+<b>4. Wait Time Management:</b>
 Introduce strategies such as appointment scheduling optimization, triage protocols, and staff training to minimize wait times and enhance the patient experience.
 
-<b>Feedback Engagement:</b>
+<b>5. Feedback Engagement:</b>
 Implement proactive feedback collection mechanisms to encourage more patients to provide satisfaction ratings, allowing for continuous improvement initiatives and better understanding of patient needs.
 
-<b>Strategic Scheduling:</b>
+<b>6. Strategic Scheduling:</b>
 Adjust staffing and resource allocation based on weekday versus weekend patient visit patterns to ensure optimal resource utilization and service delivery alignment with patient demand.
 
-<b>Seasonal Resource Allocation:</b>
+<b>7. Seasonal Resource Allocation:</b>
 Recognize and prepare for seasonal fluctuations in patient volume, such as the peak in August and the dip in February, by adjusting staffing levels and resource allocation accordingly.
 
-<b>Gender-Specific Services:</b>
+<b>8. Gender-Specific Services:</b>
 Tailor services and outreach efforts to address the specific healthcare needs and preferences of different gender groups, ensuring equitable access and personalized care delivery.
 
 
