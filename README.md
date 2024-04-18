@@ -59,24 +59,6 @@
 - <b>Filter for Visit Moments (AM/PM): Allows users to filter patient visits based on visit moments, distinguishing between visits occurring in the morning (AM) and afternoon/evening (PM).</b>
 
 
-<h2>Key Metrics and Visualizations </h2>
-
-- <b>KPI's: I visualized the calculated total Revenue, Number of Units, Total Units and Total Customers from all stores and their respective location for the given period, 2016 through to 2018.</b>
-- <b>Profitability at a Glance: I ensured an easy way of navigating clear graphs of revenues by year, month, store, top customers, sales rep, category name and state. </b>
-- <b>Geographic Mapping: I visualized the revenue coverage geographically using maps to depict regional disparities .</b>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -92,7 +74,33 @@
 - <b>Marcelene Boyer stands out as the top Sales Rep, generating a total revenue of $2.94 million.</b>
 
 
+Booking Insights:
 
+Among 9,216 patient visits, precisely half, or 50.0%, were arranged with administrative aid, while 49.96% were self-arranged.
+Patient Pathways:
+
+A majority, 58.59%, are walk-in patients, showing a preference for immediate care, while 41.41% are referrals, indicating the influence of medical recommendations.
+Referral Preferences:
+
+Within referred patients, the top three referrals are General Practice (48.2%), Orthopedics (26%), and Physiotherapy (7.2%), showcasing the diverse medical needs addressed.
+Growth Spurt:
+
+Over the 2019-2020 period, we observe a notable 5.9% surge in total patient visits, reflecting increased healthcare demand and utilization.
+Patience Tested:
+
+The average wait time stands at 35.26, a pivotal metric shaping patient experience and service efficiency.
+Satisfaction Snapshot:
+
+Despite an average satisfaction score of 5.47, only 24.9% of patients provide feedback, underscoring the need for enhanced engagement.
+Weekday Rush:
+
+Weekdays witness a significant 72% higher patient turnout compared to weekends, highlighting the role of schedule convenience in patient access.
+Monthly Peaks and Valleys:
+
+August sees the highest patient footfall with 1,024 visits, comprising 11% of total visits, while February records the lowest at 431 visits, representing 4.7% of the total.
+Gender Distribution:
+
+Males account for 48.7% of visits, females for 51.1%, and a negligible 0.3% are of unknown gender, providing insights into patient demographics and healthcare utilization patterns.
  
 
 
