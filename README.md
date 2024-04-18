@@ -14,13 +14,13 @@
 
 <h2>Business Problems</h2>
 
-<b>Here are the aspects I will cover in my analysis:</b>
-- <b>Average Wait Time: Identify typical wait times for patient appointments to assess the efficiency of our scheduling processes and identify areas for improvement.</b>
-- <b>Patient Satisfaction: Understand the factors influencing patient satisfaction is crucial for enhancing the overall patient experience and improving the quality of care we provide. </b>
-- <b>Total Patient Visits Monthly: Analyze the monthly patient visit volume helps us understand the demand for healthcare services over time, enabling better resource allocation and capacity planning.</b>
-- <b>Administrative vs. Non-Administrative Appointments: Distinguish between different appointment types allows us to evaluate the impact of administrative processes on wait times and patient satisfaction.</b>
-- <b>Referrals and Walk-In Patients: Examinine the balance between referred and walk-in patients provides insights into the referral system's effectiveness and its implications for the patient experience.</b>
-- <b>Patient Visits by Age Group and Race: Analyze patient visits by age group and race helps us understand the diversity of healthcare needs and preferences among different demographic segments, informing tailored healthcare strategies and interventions.</b>
+<b>Here are the aspects I covered in my analysis:</b>
+- <b>Average Wait Time: Identified typical wait times for patient appointments to assess the efficiency of our scheduling processes and identify areas for improvement.</b>
+- <b>Patient Satisfaction: Helped with understanding the factors influencing patient satisfaction is crucial for enhancing the overall patient experience and improving the quality of care we provide. </b>
+- <b>Total Patient Visits Monthly: Analyzed the monthly patient visit volume helps us understand the demand for healthcare services over time, enabling better resource allocation and capacity planning.</b>
+- <b>Administrative vs. Non-Administrative Appointments: Distinguished between different appointment types allows us to evaluate the impact of administrative processes on wait times and patient satisfaction.</b>
+- <b>Referrals and Walk-In Patients: Examinined the balance between referred and walk-in patients provides insights into the referral system's effectiveness and its implications for the patient experience.</b>
+- <b>Patient Visits by Age Group and Race: Analyzed patient visits by age group and race helps us understand the diversity of healthcare needs and preferences among different demographic segments, informing tailored healthcare strategies and interventions.</b>
 
 
 <h2>Key Findings</h2>
