@@ -75,7 +75,7 @@
 
 
 <h2>Key Findings</h2>
-Booking Insights:
+<b>Booking Insights:</b>
 Among 9,216 patient visits, precisely half, or 50.0%, were arranged with administrative aid, while 49.96% were self-arranged.
 
 Patient Pathways:
