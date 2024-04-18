@@ -9,7 +9,7 @@
 
 
 <h2>Overview</h2>
-<b>This healthcare analytics project aims to address important challenges and opportunities within our healthcare system through data analysis. We aim to understand and improve how efficiently we schedule appointments, increase patient satisfaction, allocate resources better based on changing demand, evaluate how administrative tasks affect patient experiences, assess the effectiveness of our referral system, and gain insights into the diverse healthcare needs across different groups of people. Additionally, there is a need for an interactive dashboard to visualize and communicate the findings effectively. Through careful data analysis and the development of an interactive dashboard, our goal is to make informed decisions and improve the quality of care for our patients.</b>b>
+<b>This healthcare analytics project aims to address important challenges and opportunities within the Emergency Room of our healthcare system through data analysis. We aim to understand and improve how efficiently we schedule appointments, increase patient satisfaction, allocate resources better based on changing demand, evaluate how administrative tasks affect patient experiences, assess the effectiveness of our referral system, and gain insights into the diverse healthcare needs across different groups of people. Additionally, there is a need for an interactive dashboard to visualize and communicate the findings effectively. Through careful data analysis and the development of an interactive dashboard, our goal is to make informed decisions and improve the quality of care for our patients.</b>
 
 
 <h2>Business Problems</h2>
