@@ -2,7 +2,7 @@
 
 <p align="center">
  <br/>
-<img src="https://i.imgur.com/pOtbnx3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scitechdaily.com/images/Emergency-Room-Hospital-777x517.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
