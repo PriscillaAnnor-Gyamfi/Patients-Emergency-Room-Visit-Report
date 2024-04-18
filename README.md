@@ -47,6 +47,7 @@
 - <b>Service Not Rated: Indicates the number of services not rated by patients, highlighting areas where feedback may be lacking.</b>
 - <b>Average Wait Time: Presents the average wait time experienced by patients before being seen by a healthcare provider.</b>
 - <b>Total Patients Visits by Various Categories:
+  
      Yearly Trends: Line graph displaying total patient visits over the years.
      Week Type: Bar chart illustrating total patient visits categorized by week type (e.g., weekdays vs. weekends).
      Age Group Distribution: Bar chart showing total patient visits by different age groups.
