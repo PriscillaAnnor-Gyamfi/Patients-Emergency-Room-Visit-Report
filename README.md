@@ -12,9 +12,15 @@
 This healthcare analytics project aims to address important challenges and opportunities within our healthcare system through data analysis. We aim to understand and improve how efficiently we schedule appointments, increase patient satisfaction, allocate resources better based on changing demand, evaluate how administrative tasks affect patient experiences, assess the effectiveness of our referral system, and gain insights into the diverse healthcare needs across different groups of people. Additionally, there is a need for an interactive dashboard to visualize and communicate the findings effectively. Through careful data analysis and the development of an interactive dashboard, our goal is to make informed decisions and improve the quality of care for our patients.
 
 
-<h2>Problem Statement</h2>
-What strategies can be implemented to decrease energy loss by approximately 5% and reduce outage events by around 17% at AEMR, thereby enhancing energy stability and market reliability for the 2016/2017 period?
+<h2>Business Problems</h2>
 
+Here are the aspects I will cover in my analysis:
+- <b>Average Wait Time: We need to identify typical wait times for patient appointments to assess the efficiency of our scheduling processes and identify areas for improvement.</b>
+- <b>Patient Satisfaction: Understanding the factors influencing patient satisfaction is crucial for enhancing the overall patient experience and improving the quality of care we provide. </b>
+- <b>Total Patient Visits Monthly: Analyzing the monthly patient visit volume helps us understand the demand for healthcare services over time, enabling better resource allocation and capacity planning.</b>
+- <b>Administrative vs. Non-Administrative Appointments: Distinguishing between different appointment types allows us to evaluate the impact of administrative processes on wait times and patient satisfaction.</b>
+- <b>Referrals and Walk-In Patients: Examining the balance between referred and walk-in patients provides insights into the referral system's effectiveness and its implications for the patient experience.</b>
+- <b>Patient Visits by Age Group and Race: Analyzing patient visits by age group and race helps us understand the diversity of healthcare needs and preferences among different demographic segments, informing tailored healthcare strategies and interventions.</b>
 
 
 <h2>Key Findings</h2>
